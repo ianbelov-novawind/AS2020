@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.56458667.chunk.css",
+    "main.js": "/static/js/main.eedecc7e.chunk.js",
+    "main.js.map": "/static/js/main.eedecc7e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c8a21426.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c8a21426.js.map",
+    "static/css/2.25ff2e5b.chunk.css": "/static/css/2.25ff2e5b.chunk.css",
+    "static/js/2.9967ff96.chunk.js": "/static/js/2.9967ff96.chunk.js",
+    "static/js/2.9967ff96.chunk.js.map": "/static/js/2.9967ff96.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.0d2397ee8fd8f857d25103bd632cc87f.js": "/precache-manifest.0d2397ee8fd8f857d25103bd632cc87f.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.25ff2e5b.chunk.css.map": "/static/css/2.25ff2e5b.chunk.css.map",
+    "static/css/main.56458667.chunk.css.map": "/static/css/main.56458667.chunk.css.map",
+    "static/js/2.9967ff96.chunk.js.LICENSE.txt": "/static/js/2.9967ff96.chunk.js.LICENSE.txt",
+    "static/media/svg.css": "/static/media/profile.dbe53828.svg",
+    "static/media/fonts.css": "/static/media/Roboto-Regular.b406464a.woff",
+    "static/media/app.css": "/static/media/flying-taxi.8da5ec5e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c8a21426.js",
+    "static/css/2.25ff2e5b.chunk.css",
+    "static/js/2.9967ff96.chunk.js",
+    "static/css/main.56458667.chunk.css",
+    "static/js/main.eedecc7e.chunk.js"
+  ]
+}
